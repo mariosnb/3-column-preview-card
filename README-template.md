@@ -26,5 +26,5 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@mariosnb](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@mariosnb](https://www.frontendmentor.io/profile/mariosnb)
 - Twitter - [@ymariosnb](https://www.twitter.com/mariosnb)
