@@ -8,7 +8,8 @@
 
   <!-- Feel free to remove these styles or customise in your own stylesheet 👍 -->
   <style>
-    @import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@600&display=swap');
+    /* font-family: Lexend Deca Regular 400, Big Shoulders Display Bold 600, 700 */
+    @import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@600;700&display=swap');
     @import url('https://fonts.googleapis.com/css2?family=Lexend+Deca&display=swap');
     body {
       background-color: hsl(0, 0%, 95%);
@@ -99,9 +100,9 @@
       margin-bottom: 20px;
     }
 
-    @media only screen and (max-width: 500px) {
+    @media only screen and (max-width: 960px) {
       .brands {
-        width: 80%;
+        width: 70%;
         flex-direction: column;
       }
 
@@ -121,6 +122,12 @@
 
       button {
         margin-top: 0px;
+      }
+    }
+
+    @media only screen and (max-width: 768px) {
+      .brands {
+        width: 80%;
       }
     }
 
